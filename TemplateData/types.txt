@@ -1,3 +1,5 @@
 Brick
 Concrete
 Wall
+Slab
+Floor
