@@ -1,3 +1,10 @@
 Brick
 Concrete
 Wall
+Floor
+Beams
+Steel
+DWC
+Footing
+Column
+Foundation
