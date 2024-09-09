@@ -1,3 +1,4 @@
 Walls
 Floor
 Stairs
+Windows
