@@ -8,9 +8,5 @@ DWC
 Footing
 Column
 Foundation
-Rebar
-Half Oblong Column
-Steel Column
 Road
-Paving Brick
 Z-Plate
