@@ -1,5 +1,4 @@
 Brick
-Concrete
 Wall
 Floor
 Beams
